@@ -1,0 +1,263 @@
+---
+title: "Natalie Z. Kerr"
+author: "Natalie Z. Kerr"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    
+    date: "`r Sys.Date()`"
+---
+
+
+
+Aside
+================================================================================
+
+![Natalie Z. Kerr](Professional_Portrait_circle.png){width=100%}
+
+<!-- ![Natalie Z. Kerr](`r here::here("data", "Professional_Portrait_circle.png")`) -->
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> nataliezoekerr@gmail.com
+- <i class="fa fa-github"></i> [github.com/nataliezoekerr](https://github.com/nataliezoekerr)
+- <i class="fa fa-phone"></i> +1 415-696-9090
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Advanced R (+16 years)
+- Python & SQL (+1 years)
+- Git / GitHub
+- Advanced Statistics
+- Data Analytics & Visualization
+- Population Modeling
+- Science Communication
+
+
+Packages {#packages}
+--------------------------------------------------------------------------------
+
+**R:** tidyverse, glmnet, lme4, msm, glmmTMB, gammit, MASS, mgcv, bbmle, sp, among many more.
+
+**Python:** Pandas, NumPy, scipy, matplotlib, seaborn, Scikit-learn.
+
+<br> 
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.  
+Resume completed using RMarkdown.
+
+
+
+Main
+================================================================================
+
+Natalie Z. Kerr {#title}
+--------------------------------------------------------------------------------
+
+### Quantitative Biologist & Statistician
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Massachusetts Institute of Technology
+
+Certificate of Applied Data Science
+
+Cambridge, MA, USA
+
+2023 
+
+### Tufts University
+
+PhD Candidate in Biology
+
+Medford, MA, USA
+
+2014--2019
+
+<!-- Thesis: Insect life history strategies in a changing world: the importance of integrating vital rates when evaluating life history trade-offs -->
+
+### University of Queensland
+
+Bachelor of Environmental Science 
+
+St Lucia, QLD, Australia
+
+2008--2012
+
+<!-- Thesis: Identifying cost-efficient approaches for managing weeds: applying an economic sensitivity analysis to matrix population models of invasive plant species -->
+
+
+Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+
+### Data Analytics Consultant
+
+Pocket Prep
+
+Durham, NC
+
+2024-present
+
+- Consultant for local company that develops an exam preparation app.
+- Built random forest machine learning models to evaluate lead indicators of users' passing their exams.
+
+### Assistant Research Professor
+
+Duke University
+
+Durham, NC
+
+2022--present
+
+- Lead scientist on a US federal grant. 
+- Coordinate funded research among 11 scientists across six institutions.
+- Taught tertiary-level courses (e.g. Human Health, Disease Ecology).
+- Member of several Duke board and department committees.
+-	Advised four undergraduate students in data science projects. 
+-	Statistics consultant for graduate and postdoctoral researchers.
+- Awarded several fellowship awards. 
+
+
+### Postdoctoral Researcher
+
+Duke University
+
+Durham, NC
+
+2019--2022
+
+- Built predictive spatial models for at-risk species under future climate.
+-	Produced quarterly and annual reports to stakeholders. 
+- Produced statistical analysis plans.
+-	Invited to give five University seminars to a diverse audience with both analytical and non-analytical backgrounds. 
+-	Statistics consultant for graduate and postdoctoral researchers.
+
+### Graduate Researcher
+
+Tufts University & UC Davis
+
+Medford, MA
+
+2014--2019
+
+- Data wrangling and analysis for projects with large longitudinal datasets.
+-	Developed novel statistical and modeling techniques for exploring high dimensional systems to solve optimization problems.
+-	Published six peer-reviewed publications; four were first author.
+
+
+Selected Workshops & Teaching {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Frequentist approaches to data analytics in R
+
+Two-day workshop series funded by the EntSoc Early Careers Professionals initiative. [GitHub](https://github.com/nataliezoekerr/EntSoc_R-Webinar_2020)
+
+Virtual online
+
+2020
+
+### Ecological Models and Statistics
+
+Undergraduate and graduate tertiary-level course covering Frequentist and Bayesian statistics.
+
+Tufts University
+
+2019
+
+### Biostatistics
+
+Undergraduate tertiary-level course covering Frequentist statistics.
+
+Tufts University
+
+2018
+
+
+### Exploiting the Dynamism of R Software 
+
+Half-day workshop at the Ent Soc Joint Annual Meeting
+
+Vancouver, Canada 
+
+2018
+
+
+
+### Implementing the Delta Method and bootstrapping to estimate variance in covarying model coefficients
+
+Half-day workshop series exploring R functions and applications. 
+
+UC Davis, California
+
+2018
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Inclusive fitness may explain some but not all benefits derived from social behavior in a cooperative breeding bird
+
+American Naturalist. (2023). [doi:10.1086/728670](https://doi.org/10.1086/728670)
+
+N/A
+
+2023
+
+**NZ Kerr**, WF Morris, JR Walters.
+
+### Larger workers outperform smaller workers across resource environments: Evaluation of demographic data using FLMs
+
+Ecology & Evolution. (2021). [doi:10.1002/ece3.7239](https://doi.org/10.1002/ece3.7239)
+
+N/A
+
+2021
+
+**NZ Kerr**, RL Malfi, NM Williams, EE Crone. 
+
+
+### Developmental trap or demographic bonanza? Opposing consequences of earlier phenology in a changing climate for a multivoltine butterfly
+
+Global Change Biology. (2020). [doi:10.1111/gcb.14959](https://doi.org/10.1111/gcb.14959)
+
+N/A
+
+2020
+
+**NZ Kerr**, T Wepprich, FS Grevstad, EB Dopman, FS Chew, EE Crone. 
+
+### Using statistics to design and estimate vital rates in matrix population models for a perennial herb
+
+Population Ecology. (2019). [doi:10.1002/1438-390X.12024](https://doi.org/10.1002/1438-390X.12024)
+
+N/A
+
+2019
+
+S Ramula, **NZ Kerr**, EE Crone
+
+
+### Prioritizing management actions for invasive populations using cost, efficacy, demography, and expert opinion
+
+J. Applied Ecology (2016). [doi:10.1111/1365-2664.12592](https://doi.org/10.1111/1365-2664.12592)
+
+N/A
+
+2016
+
+**NZ Kerr**, PWJ Baxter, R Salguero-Gómez, GM Wardle, YM Buckley.
+
+
