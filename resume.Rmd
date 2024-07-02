@@ -34,6 +34,7 @@ Skills {#skills}
 - Advanced R (+16 years)
 - Python & SQL 
 - Power BI
+- Databricks
 - Git / GitHub
 - Advanced Statistics
 - Data Analytics & Visualization
