@@ -44,9 +44,9 @@ Skills {#skills}
 Packages {#packages}
 --------------------------------------------------------------------------------
 
-**R:** tidyverse, glmnet, lme4, msm, glmmTMB, gammit, MASS, mgcv, bbmle, sp, among many more.
+**R:** tidyverse, glmnet, lme4, glmmTMB, msm, gammit, MASS, mgcv, bbmle, sp, among many more.
 
-**Python:** Pandas, NumPy, scipy, matplotlib, seaborn, Scikit-learn, PySpark.
+**Python:** Pandas, NumPy, SciPy, matplotlib, seaborn, Scikit-learn, PySpark, GeoPandas, PyGAM, Darts.
 
 
 Certifications {#certifications}
@@ -54,6 +54,7 @@ Certifications {#certifications}
 
 Applied Data Science, MIT (2023)  
 SQL Associate, DataCamp (2024)  
+Utility Analytics 101 (2024)
 
 
 Main
@@ -93,6 +94,14 @@ St Lucia, QLD, Australia
 Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
+### Data Scientist
+
+NC Electric Cooperatives
+
+Raleigh, NC
+
+2024--present
+
 
 ### Data Analytics Consultant
 
@@ -100,7 +109,7 @@ Pocket Prep
 
 Durham, NC
 
-2024-present
+2024
 
 - Consultant for local company that develops an exam preparation app.
 - Built random forest machine learning models to evaluate lead indicators of users' passing their exams.
@@ -111,7 +120,7 @@ Duke University
 
 Durham, NC
 
-2022--present
+2022--2024
 
 - Lead scientist on a US federal grant. 
 - Coordinate funded research among 11 scientists across six institutions.
